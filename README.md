@@ -1,5 +1,7 @@
 # Topic: Ancient Sci-fi
 - This project is a machine-generated sci-fi novel using GPT-2. The story is an alien-invasion story. Facing this huge trouble, people turn to the ancient militarists for help. The story displays a discussion/debate between Sun Tzu and Napoleon.
+- [Link to Colab](https://colab.research.google.com/drive/1FsXGkDRw8_2EqxsnJx6B3Aj1pmj9usYi?usp=sharing)
+- [Link to Webpage ](https://jl10902nyuedu.itch.io/ancient-artist)
 # Conceptual background
 - The idea comes from a popular Chinese Science fictional novel <The Three Body Problem> written by Liu Cixin. This novel is about a story about aliens going to invade earth. There is one virtual reality game in this story which is installed with modeled characters of ancient scientists, philosophers and emperors —— Darwin and the Chinese Emperor Zhou You Wang. Their minds are simulated and put into those VR characters so that the players can have a conversation with those ancient people.
 - Inspired by this game, I decide to also tell a story of alien invasion, and "invites" some intelligent militarists to discuss this issue. I choose two representative militarists from both the East and the West. The first militarist is Napoleon, the second is one of the most famous Chinese militarists called Sun Tzu. I think they can develop an interesting conversation, or debate on the futuristic topic about how to treat aliens.
