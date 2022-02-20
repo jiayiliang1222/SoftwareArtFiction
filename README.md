@@ -3,4 +3,7 @@
 # Conceptual background
 - The idea comes from a popular Chinese Science fictional novel <The Three Body Problem> written by Liu Cixin. This novel is about a story that aliens are going to invade earth. There is one virtual reality game in this story which is installed with modelled characters of ancient scientists, philosophers and emperors —— Darwin and the Chinese Emperor Zhou You Wang. Their minds are simulated and put into those VR characters so that the players can have a conversation with those ancient people.
 - Inspired by this game, I decide to also tell a story of alien invasion, and "invites" some intelligent militarists to discuss on this issue. I choose two representative militarists from both the East and the West. The first militarist is Napoleon, the second is one of the most famous Chinese militarists called Sun Tzu. I think they can develop an interesting conversation, or debate on the futuristic topic about how to treat aliens.
-  
+# How the Algorithm works
+- For the three paragraphs, I create 3 models for GPT2 generating. For the first model, I upload the whole text of the book <The Dark Forest>, which is the second book of the Three Body Problem series, and let GPT-2 get trained. For the second model, I upload the book <The Art of War> written by Sun Tzu. I replace words like "enemy" and "opponents" with "aliens" to make the file to be trained more sci-fi like. For the last model, I scrape down some quotes of Napoleon from a website. I also replace the words just as what I did for Sun Tzu. 
+- I structure the storyline like this: (1) I begin the story with a line "The alien is coming to earth", and let gpt2 generate the first paragraph with the model of Three Body. (2) I begin the second paragraph with the line ""
+
